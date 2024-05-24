@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Abhiraj T R 👋
 
-<!--
-**abhirajtr/abhirajtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🌱 I’m currently deepening my knowledge of the MERN stack.
+👯 I’m eager to collaborate on innovative MERN stack projects.
+🤔 I'm actively seeking opportunities to enhance my code quality.
+💬 Feel free to ask me about JavaScript, React, Node.js, MongoDB, and Express.
+📫 You can reach me at: abhirajtr007@gmail.com
 
-Here are some ideas to get you started:
+Skills
+Languages: JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks/Libraries: React, Node.js, Express
+
+Databases: MongoDB, PostgreSQL
+
+Other: Git, GitHub, RESTful APIs
