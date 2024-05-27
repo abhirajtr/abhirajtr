@@ -16,5 +16,5 @@ Databases: MongoDB, PostgreSQL
 
 Other: Git, GitHub, RESTful APIs
 
-Projects
+Projects:
 Ecommerce Web App: Developed and completed an ecommerce web application specializing in mobile phone sales. Utilized the MERN stack to create a dynamic and responsive platform for online shopping.
