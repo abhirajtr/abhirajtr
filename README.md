@@ -8,7 +8,7 @@ About Me
 📫 You can reach me at: abhirajtr007@gmail.com
 
 Skills
-Languages: JavaScript, HTML, CSS
+Languages: JavaScript, TypeScript, HTML, CSS
 
 Frameworks/Libraries: React, Node.js, Express
 
